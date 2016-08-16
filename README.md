@@ -1,7 +1,7 @@
 # CV
 PROFESSIONAL EXPERIENCE
 
-Partner engagement coordinator, Girls Who Code; San Francisco, CA           May 2016 - Present
+Partner Engagement Coordinator, Girls Who Code; San Francisco, CA           May 2016 - Present
 - Support in all phases of management and operations for 78 GWC Summer Immersion Programs in 11 regions
 - Buildout a speaker and field trip database for current and future programs
 - Identify and build strategic partnerships for clubs and programs growth; work in partnership to deliver programs that meet organizational and partner goals

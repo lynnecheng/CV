@@ -1,5 +1,5 @@
 # CV
-Professional EXPERIENCE
+PROFESSIONAL EXPERIENCE
 
 Partner engagement coordinator, Girls Who Code; San Francisco, CA           May 2016 - Present
 - Support in all phases of management and operations for 78 GWC Summer Immersion Programs in 11 regions
@@ -15,8 +15,11 @@ AmeriCorps Urban Eduction Engagement, Denver Public Schools; Denver, CO      Oct
 - Conduct training sessions with United Way and Goodwill for families on topics such as: financial coaching, GED classes, energy outreach, etc.
 - Identity and manage a rotating caseload of 40 students with attendance and behavioral concerns
 
+
 SKILLS
+
 Excellent in MS Excel, Word, PowerPoint. Proficient in SalesForce, Marketo, CALPADS.
 
 EDUCATION
+
 University of California, Irvine — BA in Social Ecology, 2013
